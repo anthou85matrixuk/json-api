@@ -1,0 +1,43 @@
+  [{
+    "id" : 1,
+    "name": "Anthony",
+    "age":35,
+    "email": "tonyson@gmail.com"       
+   },
+
+   {
+     "id" : 2,
+     "name": "Opigbede",
+     "age" : 37, 
+     "email": "opigbe@gmail.com"      
+  },
+
+   {
+     "id": 3,
+     "name": "Danielson",
+     "age": 40,
+     "email" : "danielson@gmail.com"
+   },
+
+   {
+     "id" : 4,
+     "name": "Ukwenya",
+     "age" : 47,
+     "email" : "ukwenya@gmail.com"
+   },
+
+   {
+     "id": 5,
+      "name": "Wilson",
+      "age" : 25,
+      "email" : "23wilson@gmail.com"
+   },
+
+   {
+     "id": 6,
+       "name": "Kateson",
+       "age": 42,
+       "email" : "kateson@gmail.com"
+      
+   }
+  ]
